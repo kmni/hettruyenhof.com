@@ -6,11 +6,11 @@
 		<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
 		<link href="css/style.css" rel="stylesheet" media="screen">
 		<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic|Telex' rel='stylesheet' type='text/css'>
-      <script "js/modernizr.js" type="text/javascript"></script>
+    <script "js/modernizr.js" type="text/javascript"></script>
 	</head>
 <body>
 	<div class="container">
-		<?php include 'inc/header.php'; ?>
+		<?php include '/mnt/stor7-wc1-dfw1/403849/846377/www.htminiaturehorses.com/web/content/inc/header.php'; ?>
 
 <div class="content">
     	  
@@ -50,7 +50,8 @@
         		<div class="post">
              <h4>Title of article goes here</h4>
              <h5>17 April 2013</h5>
-             <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="#">...continue</a></p>
+             <a href="horses/horse.php">...continue</a>
+             <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="horse.php">...continue</a></p>
 				</div>
         		<div class="post">
              <h4>Title of article goes here</h4>
@@ -90,7 +91,7 @@
 
 </div>
 
-	<?php include 'inc/footer.php'; ?>
+	<?php include '/mnt/stor7-wc1-dfw1/403849/846377/www.htminiaturehorses.com/web/content/inc/footer.php'; ?>
     <script>
 	 $(document).ready(function() {
 		 	$('.carousel').carousel();
