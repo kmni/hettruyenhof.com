@@ -10,7 +10,7 @@
 	</head>
 <body>
 	<div class="container">
-		<?php include 'inc/header.php'; ?>
+    <?php include '/mnt/stor7-wc1-dfw1/403849/846377/www.htminiaturehorses.com/web/content/inc/header.php'; ?>
  
 <div class="content">
     	  <h1>Geldings</h1>
@@ -79,6 +79,6 @@
 
 </div>
 
-	<?php include 'inc/footer.php'; ?>
+  <?php include '/mnt/stor7-wc1-dfw1/403849/846377/www.htminiaturehorses.com/web/content/inc/footer.php'; ?>
 </body>
 </html>

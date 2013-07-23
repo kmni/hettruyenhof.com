@@ -3,22 +3,23 @@
 	<head>
 		<title>Het Truyenhof</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
-		<link href="css/style.css" rel="stylesheet" media="screen">
+		<link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+		<link href="/css/style.css" rel="stylesheet" media="screen">
 		<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic|Telex' rel='stylesheet' type='text/css'>
-      <script "js/modernizr.js" type="text/javascript"></script>
+      <script "/js/modernizr.js" type="text/javascript"></script>
 	</head>
 <body>
 	<div class="container">
-      <?php include '/mnt/stor7-wc1-dfw1/403849/846377/www.htminiaturehorses.com/web/content/inc/header.php'; ?>
+
+		<?php include '/mnt/stor7-wc1-dfw1/403849/846377/www.htminiaturehorses.com/web/content/inc/header.php'; ?>
  
       <div class="content">
          <div class="row">
             <h1>First Knights Billy Idol</h1>
          <div class="gallery span4">
             <ul id="gallery">
-               <li><img src="img/kim & treasure-3007 fin/kim & treasure-3007 fin.jpg"></li>
-               <li><img src="img/kim & treasure-3007 fin/kim & treasure-3023 fin.jpg"></li>
+               <li><img src="/img/kim & treasure-3007 fin/kim & treasure-3007 fin.jpg"></li>
+               <li><img src="/img/kim & treasure-3007 fin/kim & treasure-3023 fin.jpg"></li>
                <li><img src="http://www.placekitten.com/500/500"></li>
                <li><img src="http://www.placekitten.com/600/600"></li>
                <li><img src="http://www.placekitten.com/700/700"></li>
@@ -84,7 +85,7 @@
          	</div>
          </div>
 
-   <?php include '/mnt/stor7-wc1-dfw1/403849/846377/www.htminiaturehorses.com/web/content/inc/footer.php'; ?>
+	<?php include '/mnt/stor7-wc1-dfw1/403849/846377/www.htminiaturehorses.com/web/content/inc/footer.php'; ?>
 <script src="http://code.jquery.com/jquery.js"></script>
 
 <script>
