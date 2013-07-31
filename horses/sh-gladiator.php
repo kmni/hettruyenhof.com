@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Het Truyenhof</title>
+		<title>SZM Redi Beethovens Fire N Gold | Het Truyenhof</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
 		<link href="/css/style.css" rel="stylesheet" media="screen">
@@ -15,35 +15,27 @@
  
       <div class="content">
          <div class="row">
-            <h1>First Knights Billy Idol</h1>
+            <h1>EBF Pol SH Gladiator</h1>
          <div class="gallery span4">
             <ul id="gallery">
-               <li><img src="http://www.placekitten.com/500/500"></li>
-               <li><img src="http://www.placekitten.com/600/600"></li>
-               <li><img src="http://www.placekitten.com/700/700"></li>
-               <li><img src="http://www.placekitten.com/800/800"></li>
+               <li><img src="../photos/sales/2013/sh-gladiator/sh-gladiator-02.jpg" width="400" height="320"></li>
+               <li><img src="../photos/sales/2013/sh-gladiator/sh-gladiator-03.jpg" width="400" height="500"></li>
+               <li><img src="../photos/sales/2013/sh-gladiator/sh-gladiator-01.jpg" width="400"></li>
+               <li><img src="../photos/sales/2013/sh-gladiator/sh-gladiator-05.jpg" width="400"></li>
             </ul>
          </div>
-         <div class="description span8">
-               <p>Heel ver weg, achter de woordbergen, ver van de landen Vokalia en Consonantia, wonen de blinde teksten. Ze
-         leven gescheiden in Bladwijzersgroef, aan de kust van Semantica, een grote talenoceaan.</p>
-         
-         <p>Een kleine rivier met de naam Duden stroomt voorbij hun huis en voorziet hen van de benodigde regelialia. Het is een paradisematisch land waar geroosterde delen van zinnen in uw mond vliegen.</p>
-         
-         <p>Zelfs de superkrachtige Interpunctiata heeft geen controle over de blinde teksten. Het is een nagenoeg
-         onorthografisch leven. Op een dag besloot Lorem Ipsum, een kleine regel blinde tekst, te vertrekken naar de
-         verafgelegen Wereld van Grammatica.</p>
-         
-         <p><strong>Eigenschappen</strong><br>
-         Registratienummer: 6548981<br>
-         Kleur: Bruin<br>
-         Geboortedatum: 15/02/2012</p>
-         
-         <p><strong>Prijzen</strong><br>
-         - 2009 World Champion Yearling Stallion over 30" to 32" Futurity<br>
-         - 2009 World Champion Yearling Stallions over 30" to 32"</p>
+         <div class="description span8">            
+            <p>(EBF Johns Supreme Heritage x Ravenwood Impressive Chrarisma)</p>
+            
+<p><strong>Features</strong><br>
+Color: Bay<br>
+Foaled: 26/06/2012</p>
+            
+     
          </div>
          </div>
+
+         <!--Begin Pedigree 
          <div class="row">
          	<div class="span12">
                <h3>Pedigree</h3>
@@ -81,7 +73,7 @@
                </table>
          		</div>
          	</div>
-         </div>
+         </div>  End Pedigree -->
 
 	<?php include '/mnt/stor7-wc1-dfw1/403849/846377/www.htminiaturehorses.com/web/content/inc/footer.php'; ?>
 <script src="http://code.jquery.com/jquery.js"></script>

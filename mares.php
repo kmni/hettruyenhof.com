@@ -17,64 +17,66 @@
       <ul class="horses row">
         <li class="span4">
         		<div class="photo">
-					<img src="http://www.placekitten.com/400/400">
+				<img src="http://www.placekitten.com/400/400">
         		</div>
             <div class="info">
-              <h3>Flying Aces Attitude of Royalty</h3>
-               <p><strong>Sire x Dam</strong></p>
-               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="#">...continue</a></p>
+              <h3>EBF SH Call Me Madam</h3>
+               <p><strong>EBF Supreme Heritage x EBF Lady Black By Daddy</strong></p>
+            <p> <a href="horses/call-me-madam.php">...more information</a></p>
              </div>
         </li>
         <li class="span4">
         		<div class="photo">
-					<img src="http://www.placekitten.com/400/400">
+				<img src="photos/sales/2013/hopkins-elegant-image/hopkins-elegant-image-03.jpg" width="400">
         		</div>
             <div class="info">
-              <h3>Flying Aces Attitude of Royalty</h3>
-               <p><strong>Sire x Dam</strong></p>
-               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="#">...continue</a></p>
+              <h3>Hopkins Elegant Image</h3>
+               <p><strong>Alliance Unforgettable Image x Little Kings Buckeroo Center Stage</strong></p>
+                <p> <a href="horses/hopkins-elegant-image.php">...more information</a></p>
              </div>
         </li>
         <li class="span4">
         		<div class="photo">
-					<img src="http://www.placekitten.com/400/400">
+				<img src="photos/sales/2013/buck-kaatarina-hawk/buck-kaatarina-hawk-03.jpg" width="400">
         		</div>
             <div class="info">
-              <h3>Flying Aces Attitude of Royalty</h3>
-               <p><strong>Sire x Dam</strong></p>
-               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="#">...continue</a></p>
+              <h3>Modello Hawks Buck Kaatarina Hawk</h3>
+               <p><strong>Modello Hawks Nello Blue Hawk x Aaprinas In Buckeroos Elegant Lace</strong></p>
+               <p> <a href="horses/buck-kaatarina-hawk.php">...more information</a></p>
              </div>
         </li>
         <li class="span4">
         		<div class="photo">
-					<img src="http://www.placekitten.com/400/400">
+				<img src="photos/sales/2013/lalique-lha-lha/lalique-lha-lha-04.jpg" width="400">
         		</div>
             <div class="info">
-              <h3>Flying Aces Attitude of Royalty</h3>
-               <p><strong>Sire x Dam</strong></p>
-               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="#">...continue</a></p>
+              <h3>Modello Stetson Lalique Lha Lha</h3>
+               <p> <a href="horses/lalique-lha-lha.php">...more information</a></p>
              </div>
         </li>
+        
+              <li class="span4">
+        		<div class="photo">
+				<img src="photos/sales/2013/ravenwood-ever-after/ravenwood-ever-after-02.jpg" width="400">
+        		</div>
+            <div class="info">
+              <h3>Ravenwood Ever After</h3>
+                <p><strong>McCarthys Kryptonite x Ravenwood Dominate The Ring</strong></p>
+               <p> <a href="horses/ravenwood-ever-after.php">...more information</a></p>
+             </div>
+        </li>
+        
         <li class="span4">
         		<div class="photo">
-					<img src="http://www.placekitten.com/400/400">
+				<img src="http://www.placekitten.com/400/400">
         		</div>
             <div class="info">
-              <h3>Flying Aces Attitude of Royalty</h3>
-               <p><strong>Sire x Dam</strong></p>
-               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="#">...continue</a></p>
+              <h3>SZM Patrone Bucks Fine Lady</h3>
+               <p><strong>ML Patrone Deluxe x HCM Bucks Golden Dawn</strong></p>
+              <p> <a href="horses/bucks-fine-lady.php">...more information</a></p>
              </div>
         </li>
-        <li class="span4">
-        		<div class="photo">
-					<img src="http://www.placekitten.com/400/400">
-        		</div>
-            <div class="info">
-              <h3>Flying Aces Attitude of Royalty</h3>
-               <p><strong>Sire x Dam</strong></p>
-               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="#">...continue</a></p>
-             </div>
-        </li>
+   
       </ul>
 
 </div>

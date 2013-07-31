@@ -17,12 +17,13 @@
       <ul class="horses row">
         <li class="span4">
         		<div class="photo">
-					<img src="http://www.placekitten.com/400/400">
+    					<img src="photos/sales/2013/beethovens-fire-01.jpg">
         		</div>
             <div class="info">
-              <h3>Flying Aces Attitude of Royalty</h3>
-               <p><strong>Sire x Dam</strong></p>
-               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="#">...continue</a></p>
+              <h3>SZM Redi Beethovens Fire N Gold</h3>
+               <p><strong>Indian Peaks Buck Beethoven x B Springhills EKS Georgia</strong></p>
+               <p>2012 Grey Colt</p>
+               <p>Very sweet and playful colt. Lovely character and is very easy. <a href="horses/copy.php">...continue</a></p>
              </div>
         </li>
         <li class="span4">

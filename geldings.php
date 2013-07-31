@@ -17,22 +17,22 @@
       <ul class="horses row">
         <li class="span4">
         		<div class="photo">
-					<img src="http://www.placekitten.com/400/400">
+					<img src="photos/sales/2013/hots-silk-treasure/hots-silk-treasure-01.jpg" width="400">
         		</div>
             <div class="info">
-              <h3>Flying Aces Attitude of Royalty</h3>
-               <p><strong>Sire x Dam</strong></p>
-               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="horse.php">...continue</a></p>
+              <h3>DD Too Hots Silk Treasure</h3>
+               <p><strong>Half Measures GM Too Hot To Gamble x Bells Silk Stocking</strong></p>
+               <p> <a href="horses/dd-too-hots-silk-treasure.php">...more information</a></p>
              </div>
         </li>
         <li class="span4">
         		<div class="photo">
-					<img src="http://www.placekitten.com/400/400">
+			<img src="photos/sales/2013/stars-genuine-granite/stars-genuine-granite-05.jpg" width="400">
         		</div>
             <div class="info">
-              <h3>Flying Aces Attitude of Royalty</h3>
-               <p><strong>Sire x Dam</strong></p>
-               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="#">...continue</a></p>
+              <h3>Stars Genuine Granite</h3>
+               <p><strong>Nirvanas Black Knight x Glory Be Farm Lady Jingle</strong></p>
+               <p> <a href="horses/stars-genuine-granite.php">...more information</a></p>
              </div>
         </li>
         <li class="span4">

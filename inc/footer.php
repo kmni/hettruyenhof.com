@@ -1,6 +1,6 @@
       <div id="footer">
       	    <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="#">Show Schedule</a></li>
                 <li><a href="#">News</a></li>
                 <li><a href="#">Contact Us</a></li>
@@ -11,7 +11,7 @@
                 <li><a href="#">Sale Horses</a></li>
       	    </ul>
         
-       <a href="#" class="fblogo"><img src="img/facebook.png"></a>
+       <a href="#" class="fblogo"><img src="/img/facebook.png"></a>
        <div class="address">
        <h5>Het Truyenhof Miniatures</h5>
        Langveldstraat 56, 3570<br>
@@ -32,4 +32,4 @@
 		</div>
     </div> <!-- /container -->
 <script src="http://code.jquery.com/jquery.js"></script>
-<script src="js/bootstrap.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>

@@ -24,19 +24,19 @@
     <div class="active item">
        <img src="img/slide-01.jpg">
        <div class="carousel-caption">
-          Home is where the horse is
+          Home is where the heart is
        </div>
     </div>
     <div class="item">
        <img src="img/slide-01.jpg">
        <div class="carousel-caption">
-       Home is where the horse is
+       Home is where the heart is
        </div>
     </div>
     <div class="item">
        <img src="img/slide-01.jpg">
        <div class="carousel-caption">
-          Home is where the horse is
+         Home is where the heart is
        </div>
     </div>
   </div>
@@ -85,7 +85,7 @@
           <h2>Sale Horses</h2>
           <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
             <hr>
-          <a href="#">SALE HORSES</a>
+          <a href="sale-horses.php">SALE HORSES</a>
         </div>
       </div>
 

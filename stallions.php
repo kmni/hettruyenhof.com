@@ -17,12 +17,22 @@
       <ul class="horses row">
         <li class="span4">
         		<div class="photo">
-					<img src="http://www.placekitten.com/400/400">
+					<img src="photos/sales/2013/sh-gladiator/sh-gladiator-04.jpg" width="400">
         		</div>
             <div class="info">
-              <h3>Flying Aces Attitude of Royalty</h3>
-               <p><strong>Sire x Dam</strong></p>
-               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="#">...continue</a></p>
+              <h3>EBF Pol SH Gladiator</h3>
+               <p><strong>EBF Johns Supreme Heritage x Ravenwood Impressive Chrarisma</strong></p>
+                 <p> <a href="horses/sh-gladiator.php">...more information</a></p>
+             </div>
+        </li>
+        <li class="span4">
+        		<div class="photo">
+				<img src="http://www.placekitten.com/400/400">
+        		</div>
+            <div class="info">
+              <h3>SZM Redi Beethovens Fire N Gold</h3>
+               <p><strong>Indian Peaks Buck Beethoven x B Springhills Redi To Party</strong></p>
+              <p> <a href="horses/fire-n-gold.php">...more information</a></p>
              </div>
         </li>
         <li class="span4">
@@ -30,51 +40,14 @@
 					<img src="http://www.placekitten.com/400/400">
         		</div>
             <div class="info">
-              <h3>Flying Aces Attitude of Royalty</h3>
-               <p><strong>Sire x Dam</strong></p>
-               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="#">...continue</a></p>
+              <h3>MCCARTHYS Storm Warning</h3>
+               <p><strong>NFCS Superman x MCCARTHYS Blond Ambition</strong></p>
+               <p> <a href="horses/storm-warning.php">...more information</a></p>
              </div>
         </li>
-        <li class="span4">
-        		<div class="photo">
-					<img src="http://www.placekitten.com/400/400">
-        		</div>
-            <div class="info">
-              <h3>Flying Aces Attitude of Royalty</h3>
-               <p><strong>Sire x Dam</strong></p>
-               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="#">...continue</a></p>
-             </div>
-        </li>
-        <li class="span4">
-        		<div class="photo">
-					<img src="http://www.placekitten.com/400/400">
-        		</div>
-            <div class="info">
-              <h3>Flying Aces Attitude of Royalty</h3>
-               <p><strong>Sire x Dam</strong></p>
-               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="#">...continue</a></p>
-             </div>
-        </li>
-        <li class="span4">
-        		<div class="photo">
-					<img src="http://www.placekitten.com/400/400">
-        		</div>
-            <div class="info">
-              <h3>Flying Aces Attitude of Royalty</h3>
-               <p><strong>Sire x Dam</strong></p>
-               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="#">...continue</a></p>
-             </div>
-        </li>
-        <li class="span4">
-        		<div class="photo">
-					<img src="http://www.placekitten.com/400/400">
-        		</div>
-            <div class="info">
-              <h3>Flying Aces Attitude of Royalty</h3>
-               <p><strong>Sire x Dam</strong></p>
-               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. <a href="#">...continue</a></p>
-             </div>
-        </li>
+ 
+  
+   
       </ul>
 
 </div>
