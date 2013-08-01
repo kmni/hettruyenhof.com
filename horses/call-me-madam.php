@@ -18,9 +18,9 @@
             <h1>EBF SH Call Me Madam</h1>
          <div class="gallery span4">
             <ul id="gallery">
-               <li><img src="../photos/sales/2013/call-me-madam-02.jpg" width="400"></li>
-               <li><img src="../photos/sales/2013/call-me-madam-03.jpg" width="400"></li>
-               <li><img src="../photos/sales/2013/call-me-madam-04.jpg" width="400"></li>
+               <li><img src="../photos/sales/2013/call-me-madam/call-me-madam-02.jpg" ></li>
+               <li><img src="../photos/sales/2013/call-me-madam/call-me-madam-03.jpg" ></li>
+              
             </ul>
          </div>
          <div class="description span8">            

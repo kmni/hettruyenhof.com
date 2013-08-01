@@ -17,11 +17,11 @@
       <ul class="horses row">
         <li class="span4">
         		<div class="photo">
-				<img src="http://www.placekitten.com/400/400">
+				<img src="photos/sales/2013/call-me-madam/call-me-madam-01.jpg" width="400">
         		</div>
             <div class="info">
               <h3>EBF SH Call Me Madam</h3>
-               <p><strong>EBF Supreme Heritage x EBF Lady Black By Daddy</strong></p>
+           
             <p> <a href="horses/call-me-madam.php">...more information</a></p>
              </div>
         </li>
@@ -31,7 +31,7 @@
         		</div>
             <div class="info">
               <h3>Hopkins Elegant Image</h3>
-               <p><strong>Alliance Unforgettable Image x Little Kings Buckeroo Center Stage</strong></p>
+              
                 <p> <a href="horses/hopkins-elegant-image.php">...more information</a></p>
              </div>
         </li>
@@ -41,7 +41,7 @@
         		</div>
             <div class="info">
               <h3>Modello Hawks Buck Kaatarina Hawk</h3>
-               <p><strong>Modello Hawks Nello Blue Hawk x Aaprinas In Buckeroos Elegant Lace</strong></p>
+             
                <p> <a href="horses/buck-kaatarina-hawk.php">...more information</a></p>
              </div>
         </li>
@@ -61,7 +61,7 @@
         		</div>
             <div class="info">
               <h3>Ravenwood Ever After</h3>
-                <p><strong>McCarthys Kryptonite x Ravenwood Dominate The Ring</strong></p>
+              
                <p> <a href="horses/ravenwood-ever-after.php">...more information</a></p>
              </div>
         </li>
@@ -72,7 +72,7 @@
         		</div>
             <div class="info">
               <h3>SZM Patrone Bucks Fine Lady</h3>
-               <p><strong>ML Patrone Deluxe x HCM Bucks Golden Dawn</strong></p>
+             
               <p> <a href="horses/bucks-fine-lady.php">...more information</a></p>
              </div>
         </li>
