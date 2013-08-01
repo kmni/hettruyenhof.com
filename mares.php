@@ -68,7 +68,7 @@
         
         <li class="span4">
         		<div class="photo">
-				<img src="http://www.placekitten.com/400/400">
+				<img src="photos/sales/2013/bucks-fine-lady/bucks-fine-lady-01.jpg" width="400">
         		</div>
             <div class="info">
               <h3>SZM Patrone Bucks Fine Lady</h3>
